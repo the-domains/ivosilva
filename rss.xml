@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[ivosilva]]></title>
         <description><![CDATA[ivosilva]]></description>
-        <link>https://thegrid.ai/ivosilva/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Oct 2015 23:10:58 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/ivosilva/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Test this thing!]]></title>
-            <description><![CDATA[<article><h1>Test this thing!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51d53929-e1fc-4018-9b24-a54f8c1ba38a.png"></article>]]></description>
-            <link>https://thegrid.ai/ivosilva/test-this-thing/index.html</link>
-            <guid isPermaLink="false">12c7f4a7-7ab7-481b-8a48-5b2305ab7c25</guid>
-            <pubDate>Sun, 25 Oct 2015 23:09:46 GMT</pubDate>
-        </item>
+        <lastBuildDate>Sun, 25 Oct 2015 23:09:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>https://thegrid.ai/ivosilva/getting-started-on-the-grid/index.html</link>
+            <link>undefinedgetting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">0b8e14fb-4b4f-4569-bd16-89cbf9a8347c</guid>
             <pubDate>Sun, 25 Oct 2015 23:09:46 GMT</pubDate>
         </item>
