@@ -1,0 +1,23 @@
+name: ivosilva
+favicon: null
+layout_spectrum: 0.3889271749649197
+typography_spectrum: 0.624700472690165
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.37817430519498885
+  lightness: 0.24898015055805445
+  saturation: 0.04692900227382779
+  rhythmicContrast: 0.6163150297943503
+purpose: []
